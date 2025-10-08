@@ -1,4 +1,4 @@
-## Vapeshop_Sales_Analysis
+# Vapeshop_Sales_Analysis
 
 ## Обзор проекта
 
